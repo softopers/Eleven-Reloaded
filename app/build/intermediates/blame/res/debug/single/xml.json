@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_widget_large_alternate.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\xml\\app_widget_large_alternate.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_widget_small.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\xml\\app_widget_small.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_widget_large.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\xml\\app_widget_large.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\xml\\settings.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_save_queue"
+        android:orderInCategory="50"
+        android:title="@string/menu_save_queue"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_clear_queue"
+        android:orderInCategory="51"
+        android:title="@string/menu_clear_queue"
+        app:showAsAction="never" />
+
+</menu>

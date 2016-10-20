@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_shuffle_all.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_shuffle_all.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_button.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_button.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_next.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_next.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\drag_indicator.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\drag_indicator.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\top_tracks_icon.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\top_tracks_icon.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_button_light.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_button_light.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\now_playing_icon.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\now_playing_icon.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\gripper_light.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\gripper_light.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_repeat_one.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_repeat_one.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_add_to_playlist.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_add_to_playlist.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_queue_icon.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_queue_icon.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stopwatch_icon_small_grey.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stopwatch_icon_small_grey.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\no_results.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\no_results.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_browse.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_browse.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_play.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_play.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\gripper.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\gripper.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\history_icon.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\history_icon.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_repeat_all.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_repeat_all.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_action_search.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_search.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\recently_added.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\recently_added.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\playlist_icon.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\playlist_icon.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stopwatch_icon_white.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stopwatch_icon_white.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_pause.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_pause.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_icon.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_icon.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_notification_collapse.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_notification_collapse.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_playback_previous.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_playback_previous.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\btn_header_collapse.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\btn_header_collapse.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\recent_icon.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\recent_icon.xml"
+    }
+]

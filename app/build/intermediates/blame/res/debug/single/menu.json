@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\artist_sort_by.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\artist_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\queue.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\queue.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\artist_song_sort_by.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\artist_song_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\song_sort_by.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\song_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\artist_album_sort_by.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\artist_album_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\shuffle_item.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\shuffle_item.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_btn.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\search_btn.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_playlist.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\new_playlist.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\shuffle_all.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\shuffle_all.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\album_sort_by.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\album_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\clear_list.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\clear_list.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio_player.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\audio_player.xml"
+    },
+    {
+        "merged": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_base.xml",
+        "source": "C:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\src\\main\\res\\menu\\activity_base.xml"
+    }
+]
