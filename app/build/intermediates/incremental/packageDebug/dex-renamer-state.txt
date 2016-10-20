@@ -1,4 +1,0 @@
-#Thu Oct 13 00:09:55 IST 2016
-base.0=C\:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Demos\\android_packages_apps_Eleven-stable-cm-13.0-ZNH5Y\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
